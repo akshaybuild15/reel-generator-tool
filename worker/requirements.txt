@@ -1,0 +1,11 @@
+google-genai
+opencv-python
+mediapipe
+ultralytics
+scenedetect
+ffmpeg-python
+pydantic
+pydantic-settings
+google-cloud-storage
+supabase
+pytest

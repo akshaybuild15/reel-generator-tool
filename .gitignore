@@ -1,0 +1,20 @@
+# secrets
+.env
+secrets/
+*.key.json
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# node
+node_modules/
+dist/
+.vite/
+
+# os
+.DS_Store
+Thumbs.db

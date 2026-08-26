@@ -1,0 +1,1 @@
+-- Empty for Phase 0. Tables + RLS policies land in Phase 1 (spec §4, §7).
